@@ -1,0 +1,17 @@
+﻿@model  IEnumerable<MeowCat.Models.BreedModel>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "_Layout";
+}
+
+<h2>MeowCatMeowCatMeowCatMeowCat</h2>
+
+<p>
+    @Html.ActionLink("New Kitty", "Create")
+</p>
+
+@Html.DisplayNameFor(model => model.Name)
+
+
+@Html.ValidationSummary(true, "", new { @class = "text-danger" })           
