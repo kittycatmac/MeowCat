@@ -1,15 +1,15 @@
 ﻿<Properties StartupConfiguration="{8F9FD338-C666-4C7F-84A1-39A328DD4401}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/CatController.cs">
+    <Files>
+      <File FileName="Controllers/CatController.cs" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MeowCat" expanded="True">
             <Node name="MeowCat" expanded="True">
-              <Node name="Controllers" expanded="True" />
-              <Node name="Views" expanded="True">
-                <Node name="Home" expanded="True">
-                  <Node name="Index.cshtml" selected="True" />
-                </Node>
+              <Node name="Controllers" expanded="True">
+                <Node name="CatController.cs" selected="True" />
               </Node>
             </Node>
           </Node>
